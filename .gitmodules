@@ -1,0 +1,3 @@
+[submodule "README.md"]
+	path = {% include_relative <relative-path-to-submodule>/README.md %}
+	url = https://github.com/ralseiplushie/ralseiplushie.git
